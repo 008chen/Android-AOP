@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-AOP.iml" filepath="$PROJECT_DIR$/Android-AOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aspectj/aspectj.iml" filepath="$PROJECT_DIR$/aspectj/aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-AOP.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-AOP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-AOP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aspectj/Android-AOP.aspectj.iml" filepath="$PROJECT_DIR$/.idea/modules/aspectj/Android-AOP.aspectj.iml" />
     </modules>
   </component>
 </project>

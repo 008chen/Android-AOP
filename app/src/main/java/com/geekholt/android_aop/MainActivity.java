@@ -2,10 +2,11 @@ package com.geekholt.android_aop;
 
 import android.content.Intent;
 import android.os.SystemClock;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.geekholt.aspectj.annotation.BehaviorTrace;
 
